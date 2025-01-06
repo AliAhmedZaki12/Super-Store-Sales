@@ -1,14 +1,14 @@
 
 
-###  Super Store Sales
+## Super Store Sales
 ---
 
-#### **Purpose**
+# **Purpose**
 The purpose of this project is to analyze and visualize sales data for a superstore using Power BI. The goal is to extract actionable insights from the data and provide a comprehensive overview of sales performance, customer segments, and business operations across multiple dimensions, such as product categories, regions, and sales trends over time.
 
 ---
 
-#### **Objectives**
+# **Objectives**
 - To understand the sales performance across various regions and product categories.
 - To identify the contribution of different sales channels, payment methods, and shipping modes.
 - To monitor yearly and monthly trends in sales and profits.
@@ -16,7 +16,7 @@ The purpose of this project is to analyze and visualize sales data for a superst
 
 ---
 
-#### **Key Features**
+# **Key Features**
 1. **Interactive Dashboard**: Designed with Power BI to provide dynamic visualizations for easy exploration of data.
 2. **Regional Analysis**: Displays sales performance across four main regions—Central, East, South, and West—alongside a geospatial map.
 3. **Category Breakdown**: Detailed breakdown of sales and profits by product categories and sub-categories.
@@ -27,14 +27,14 @@ The purpose of this project is to analyze and visualize sales data for a superst
 
 ---
 
-#### **Target Benefits**
+# **Target Benefits**
 - **For Decision Makers**: Easy access to key performance indicators (KPIs) and trends.
 - **For Analysts**: A structured dataset for further exploration and advanced analysis.
 - **For Business Growth**: Clear identification of high-performing categories, regions, and customer segments.
 
 ---
 
-#### **Methodology**
+# **Methodology**
 1. **Data Preparation**:
    - Cleaning raw data to handle inconsistencies, missing values, and errors.
    - Ensuring data integrity by standardizing columns and removing duplicates.
@@ -47,7 +47,7 @@ The purpose of this project is to analyze and visualize sales data for a superst
 
 ---
 
-#### **Results**
+# **Results**
 - **Regional Performance**: Sales and profits are highest in the Central region.
 - **Top Products**: Phones and chairs are the leading sub-categories in terms of sales.
 - **Shipping Preferences**: Standard class is the most frequently used shipping mode, contributing significantly to overall sales.
@@ -56,7 +56,7 @@ The purpose of this project is to analyze and visualize sales data for a superst
 
 ---
 
-#### **Expected Outcomes**
+# **Expected Outcomes**
 - Identification of key growth areas and high-potential markets.
 - Better understanding of customer preferences and behaviors.
 - Optimization of operations in terms of shipping, payment, and marketing strategies.
@@ -64,7 +64,7 @@ The purpose of this project is to analyze and visualize sales data for a superst
 
 ---
 
-#### **Page-Wise Report Breakdown**
+# **Page-Wise Report Breakdown**
 1. **Sales Overview**:
    - Displays total profit, sales, and quantity sold with a breakdown by sub-categories (e.g., Phones, Chairs, Binders).
    - Shows total contributions in terms of sales by shipping modes (e.g., Standard, First Class).
