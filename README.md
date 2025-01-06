@@ -1,6 +1,6 @@
 
 
-## Super Store Sales
+# **Super Store Sales**
 ---
 
 # **Purpose**
@@ -84,6 +84,5 @@ The purpose of this project is to analyze and visualize sales data for a superst
 6. **Category Analysis**:
    - Highlights sales performance by major categories like Office Supplies, Technology, and Furniture.
 
----
 
-This project showcases the potential of Power BI in transforming raw data into actionable insights. The dashboard is designed to facilitate decision-making for stakeholders by providing a holistic view of business operations.
+
