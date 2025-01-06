@@ -1,7 +1,6 @@
 
 
-### README for Super Store Sales Dashboard Project
-
+###  Super Store Sales
 ---
 
 #### **Purpose**
